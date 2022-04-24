@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Renar Freitas
 
-### Welcome to my github profile
+### Welcome to my Github profile
 
 <div>
   <a href="https://github.com/renarfreitas">
